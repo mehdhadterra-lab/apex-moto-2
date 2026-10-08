@@ -1,0 +1,6 @@
+{
+  "name": "Apex Moto: Bike Games Arena",
+  "description": "Play high-octane 2D bike games online: Moto Trials Extreme physics obstacles, Highway Racer traffic dodging, BMX Freestyle trick park, and Cyber Lightbike.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
